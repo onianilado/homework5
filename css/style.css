@@ -122,6 +122,12 @@ body{
 	width: 360px;
 	margin-left: 30px;
 }
+.clock{
+	vertical-align: top;
+}
+.time{
+	vertical-align: top;
+}
 .image{
 	margin-bottom: 102px;
 }
