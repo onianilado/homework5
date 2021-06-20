@@ -190,6 +190,9 @@ body{
 	color: #CBD0D3;
 
 }
+.last-block{
+	display: inline-block;
+}
 .img{
 	margin-right: 15px;
 }
