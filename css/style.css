@@ -87,6 +87,7 @@ body{
 	color: #A6ADB4;
 }
 .title{
+	font-weight: bold;
 	font-size: 24px;
 	margin-top: 58px;
 	margin-bottom: 40px;
