@@ -23,13 +23,17 @@ body{
 }
 .nav-li{
 	vertical-align: middle;
-	font-size: 11px;
-	color: #343638;
 	display: inline-block;
 	margin-right: 27px;
+}
+.nav-list{
+	font-family: 'Noto Sans JP', sans-serif;
 	font-size: 11px;
+	color: #343638;
 }
 .active{
+	font-weight: bold;
+	font-family: 'Noto Sans JP', sans-serif;
 	font-size: 11px;
 	color: #343638;
 }
