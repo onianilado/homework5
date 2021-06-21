@@ -27,13 +27,11 @@ body{
 	margin-right: 27px;
 }
 .nav-list{
-	font-family: 'Noto Sans JP', sans-serif;
 	font-size: 11px;
 	color: #343638;
 }
 .active{
 	font-weight: bold;
-	font-family: 'Noto Sans JP', sans-serif;
 	font-size: 11px;
 	color: #343638;
 }
@@ -128,10 +126,10 @@ body{
 	margin-left: 30px;
 }
 .clock{
-	vertical-align: top;
+	vertical-align: middle;
 }
-.time{
-	vertical-align: top;
+.time-text{
+	vertical-align: middle;
 }
 .image{
 	margin-bottom: 102px;
@@ -169,31 +167,39 @@ body{
 	vertical-align: top;
 	display: inline-block;
 	margin-left: 89.1px;
+	font-size: 11px;
 }
 .ul2{
 	color: #CBD0D3;
 	vertical-align: top;
 	display: inline-block;
 	margin-left: 70.6px;
+	font-size: 11px;
 }
 .ul3{
 	color: #CBD0D3;
 	vertical-align: top;
 	display: inline-block;
 	margin-left: 86.3px;
+	font-size: 11px;
+
 }
 .ul4{
 	color: #CBD0D3;
 	vertical-align: top;
 	display: inline-block;
-	margin-left: 104px;
-	margin-right: 165px;
+	margin-left: 104.9px;
+	margin-right: 165.2px;
+	font-size: 11px;
+}
+.footer-li{
+	margin-bottom: 8px;
 }
 .footer{
 	vertical-align: top;
 	display: inline-block;
 }
-.footertext{
+.footer-text{
 	margin-left: 104.9px ;
 	width: 243px;
 	display: inline-block;
@@ -205,5 +211,5 @@ body{
 	display: inline-block;
 }
 .img{
-	margin-right: 15px;
+	margin-right: 32px;
 }
